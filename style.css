@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+    color: rgb(0, 0, 255);
+}
+.heading{
+    width: 60%;
+    font-size: 22px;
+}
+.name_of_objects{
+    font-size: 25px;
+    font-family: fantasy;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border:1px solid rgb(255, 81, 0);
+}
